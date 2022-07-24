@@ -1,0 +1,16 @@
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\IsLibrary\bin\Debug\IsLibrary.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\IsLibrary\bin\Debug\IsLibrary.pdb
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\IsLibrary\bin\Debug\VeriLibrary.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\IsLibrary\bin\Debug\VeriLibrary.pdb
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\IsLibrary\obj\Debug\IsLibrary.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\IsLibrary\obj\Debug\IsLibrary.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\IsLibrary\obj\Debug\IsLibrary.pdb
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\IsLibrary\bin\Debug\IsLibrary.dll
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\IsLibrary\bin\Debug\IsLibrary.pdb
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\IsLibrary\bin\Debug\VeriLibrary.dll
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\IsLibrary\bin\Debug\VeriLibrary.pdb
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\IsLibrary\obj\Debug\IsLibrary.csprojAssemblyReference.cache
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\IsLibrary\obj\Debug\IsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\IsLibrary\obj\Debug\IsLibrary.csproj.CopyComplete
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\IsLibrary\obj\Debug\IsLibrary.dll
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\IsLibrary\obj\Debug\IsLibrary.pdb

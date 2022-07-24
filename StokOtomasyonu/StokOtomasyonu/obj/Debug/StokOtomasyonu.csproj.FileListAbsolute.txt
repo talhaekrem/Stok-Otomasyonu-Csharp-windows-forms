@@ -1,0 +1,33 @@
+c:\users\asus\documents\visual studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.exe
+c:\users\asus\documents\visual studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.pdb
+c:\users\asus\documents\visual studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.exe
+c:\users\asus\documents\visual studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.pdb
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\bin\Debug\IsLibrary.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\bin\Debug\IsLibrary.pdb
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.AnaForm.resources
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\bin\Debug\VeriLibrary.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\bin\Debug\VeriLibrary.pdb
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.SorguForm.resources
+C:\Users\asus\Desktop\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.exe.config
+C:\Users\asus\Desktop\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.exe
+C:\Users\asus\Desktop\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.pdb
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.exe.config
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.exe
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\bin\Debug\StokOtomasyonu.pdb
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\bin\Debug\IsLibrary.dll
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\bin\Debug\VeriLibrary.dll
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\bin\Debug\IsLibrary.pdb
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\bin\Debug\VeriLibrary.pdb
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.csprojAssemblyReference.cache
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.AnaForm.resources
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.Properties.Resources.resources
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.SorguForm.resources
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.csproj.GenerateResource.cache
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.csproj.CopyComplete
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.exe
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\StokOtomasyonu\obj\Debug\StokOtomasyonu.pdb

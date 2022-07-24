@@ -1,0 +1,11 @@
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\VeriLibrary\bin\Debug\VeriLibrary.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\VeriLibrary\bin\Debug\VeriLibrary.pdb
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\VeriLibrary\obj\Debug\VeriLibrary.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\VeriLibrary\obj\Debug\VeriLibrary.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\StokOtomasyonu\VeriLibrary\obj\Debug\VeriLibrary.pdb
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\VeriLibrary\bin\Debug\VeriLibrary.dll
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\VeriLibrary\bin\Debug\VeriLibrary.pdb
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\VeriLibrary\obj\Debug\VeriLibrary.csprojAssemblyReference.cache
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\VeriLibrary\obj\Debug\VeriLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\VeriLibrary\obj\Debug\VeriLibrary.dll
+C:\Users\asus\Documents\3. sınıf Yaz Okulu\Görsel Programlama\görsel proje\proje dosyası\StokOtomasyonu\VeriLibrary\obj\Debug\VeriLibrary.pdb
